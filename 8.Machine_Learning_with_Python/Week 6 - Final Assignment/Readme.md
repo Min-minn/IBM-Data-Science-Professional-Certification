@@ -10,3 +10,4 @@ This final project will be graded by your peers who are completing this course d
 4. Building model using Logistic Regression, finding the best k and accuracy evaluation (**6 marks**)
 
 [Link to notebook](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/4d6db394-4d29-4627-aa4b-28bd502c368e/view?access_token=0aa62299e7b37c3b9040fbada756fcaa5bda15542045fdc0a4beb29e234204f3)
+[Answer](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/dfe0fbbc-7d34-4fac-8906-aefecc84f266/view?access_token=048a3161a35ec404ac0b0cae08a02d0ab157c269bb00b5ac92a3368d600ac82d)
